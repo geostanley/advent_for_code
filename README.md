@@ -1,2 +1,2 @@
 # advent_for_code
-my solutions to various advent for code challenges
+My solutions to various advent for code challenges
